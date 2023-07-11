@@ -8,7 +8,8 @@ public class EmployeeApplication {
 
 	public static void main(String[] args) {
 	System.out.println("asdfghfd");
-		SpringApplication.run(EmployeeApplication.class, args);
+	System.out.println("changes");
+	SpringApplication.run(EmployeeApplication.class, args);
 	}
 
 }
